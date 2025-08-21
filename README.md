@@ -1,1 +1,1 @@
-# web_scraping
+# Toy Web Scrapping project
